@@ -15,7 +15,7 @@
         "name": "Nationality",
         "type": "Categorical",
         "mapping":{
-            "National": ["national", "nationals", "citizen", "citizens", "emarati", "emaratis"],
+            "Emirati": ["native", "indigenous", "citizen", "citizens", "emarati", "emaratis"],
             "Expatriate": ["expatriate", "foreigner", "foreigners", "immigrant", "immgrants", "foreign"]
         }
 
@@ -31,6 +31,30 @@
         {
         "name": "age",
         "type": "Age"
+15
+        {
+16
+        "name": "Nationality",
+17
+        "type": "Categorical",
+18
+        "mapping":{
+19
+            "Emarati": ["native", "indigenous", "citizen", "citizens", "emarati", "emaratis"],
+20
+            "Expatriate": ["expatriate", "foreigner", "foreigners", "immigrant", "immgrants", "foreign"]
+21
+        }
+22
+​
+23
+        },
+24
+        {
+25
+        "name": "Disease",
+26
+        "keywords": ["illness","sickness"],
 
         },
         {
