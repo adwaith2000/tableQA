@@ -16,7 +16,7 @@
         "name": "Nationality",
         "type": "Categorical",
         "mapping":{
-            "National": ["national", "nationals", "citizen", "citizens", "emarati", "emaratis"],
+            "Emarati": ["native", "indigenous", "citizen", "citizens", "emarati", "emaratis"],
             "Expatriate": ["expatriate", "foreigner", "foreigners", "immigrant", "immgrants", "foreign"]
         }
 
